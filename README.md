@@ -59,13 +59,25 @@ Finish time: 7:30
 
 Actual time needed to complete: *30min
 
-both Weather and Movies don't work, spent  more to try and get it to work.
+both Weather and Movies don't work, spent 30 more minutes to try and get it to work, but wasn't able to get a working app.
 
 3.Publish
 Estimate of time needed to complete: 1hr
 
-Start time: 
+Start time: 9:15
 
-Finish time: 
+Finish time: 9:25
 
-Actual time needed to complete: 
+Actual time needed to complete: 10min
+
+## Time Estimates lab9
+
+1.Weather (live)
+
+Estimate of time needed to complete: 1hr
+
+Start time: 9:30
+
+Finish time: 7:50
+
+Actual time needed to complete: 20min
