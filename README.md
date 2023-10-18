@@ -17,7 +17,7 @@
 
 01-01-2001 4:59pm - Application now has a fully-functional express server, with a GET route for the location resource. -->
 
-## Time Estimates
+## Time Estimates lab7
 
 1.Set up your server repository
 
@@ -37,3 +37,35 @@ Start time: 2:00
 Finish time: 5:00
 
 Actual time needed to complete: not completed
+
+## Time Estimates lab8
+
+1.Weather (live)
+
+Estimate of time needed to complete: 1hr
+
+Start time: 6:30
+
+Finish time: 7:00
+
+Actual time needed to complete: *didn't test to see if it actually works yet
+
+2.Movies
+Estimate of time needed to complete: 1hr
+
+Start time: 7:00
+
+Finish time: 7:30
+
+Actual time needed to complete: *30min
+
+both Weather and Movies don't work, spent  more to try and get it to work.
+
+3.Publish
+Estimate of time needed to complete: 1hr
+
+Start time: 
+
+Finish time: 
+
+Actual time needed to complete: 
