@@ -72,12 +72,20 @@ Actual time needed to complete: 10min
 
 ## Time Estimates lab9
 
-1.Weather (live)
-
 Estimate of time needed to complete: 1hr
 
 Start time: 9:30
 
-Finish time: 7:50
+Finish time: 9:50
 
 Actual time needed to complete: 20min
+
+## Time Estimates lab10
+
+Estimate of time needed to complete: 1hr
+
+Start time: 10:30
+
+Finish time: 
+
+Actual time needed to complete: 
